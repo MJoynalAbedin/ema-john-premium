@@ -1,0 +1,14 @@
+.each-product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}
+.btn-add-to-cart{
+    width: 200px;
+    padding: 5px;
+    background-color: #f7b147;
+    border-radius: 5px;
+    border: 2px solid black;
+    color: Black;
+    font-weight: bold;
+}
